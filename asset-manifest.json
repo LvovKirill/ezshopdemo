@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.439f2e21.css",
+    "main.js": "/static/js/main.aff66689.js",
+    "static/media/ava.png": "/static/media/ava.222f0491c6687b549a72.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
+    "static/media/tg_logo.svg": "/static/media/tg_logo.7a782c6496cd308f390ce11e2bacfc4e.svg",
+    "static/media/confetti_img.png": "/static/media/confetti_img.638c69ba33de798a0a42.png",
+    "static/media/grid_icon.svg": "/static/media/grid_icon.d577a78171dc4dc9101153f237649594.svg",
+    "static/media/menu_2.svg": "/static/media/menu_2.79f99e8add67631e7ae7eb450f1fad81.svg",
+    "static/media/interrogation_icon.svg": "/static/media/interrogation_icon.71e043e311f9cdb66b7af965ad27b7e6.svg",
+    "static/media/menu_4.svg": "/static/media/menu_4.5791e185bda47461df8cd7fbcda09ebb.svg",
+    "static/media/shopping_icon.svg": "/static/media/shopping_icon.84247525968dce53b03d5777049f083f.svg",
+    "static/media/menu_3.svg": "/static/media/menu_3.735eb9db08b07675f2672e3ddd9e373b.svg",
+    "static/media/menu_5.svg": "/static/media/menu_5.14d0e770f596f27ef04696ed04c5e581.svg",
+    "static/media/menu_1.svg": "/static/media/menu_1.1586f1c966f81d528b27e1de9098e39a.svg",
+    "static/media/robot_icon.svg": "/static/media/robot_icon.a7815f77f5c8820831a7db73d7e15153.svg",
+    "static/media/copy_icon.svg": "/static/media/copy_icon.6de469acf25810b60b17aa34e4dcde89.svg",
+    "static/media/right_arrow_icon.svg": "/static/media/right_arrow_icon.16b044b5978e0841287ccf398d187593.svg",
+    "index.html": "/index.html",
+    "main.439f2e21.css.map": "/static/css/main.439f2e21.css.map",
+    "main.aff66689.js.map": "/static/js/main.aff66689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.439f2e21.css",
+    "static/js/main.aff66689.js"
+  ]
+}
